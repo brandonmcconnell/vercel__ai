@@ -1,5 +1,14 @@
 # ai
 
+## 7.0.92
+
+### Patch Changes
+
+- a51cc94: fix(ai): preserve provider metadata from empty smooth stream deltas
+- d1904d3: fix(ai): surface fallback errors for empty HTTP response bodies
+- 84e5a79: fix(ai): skip `smoothStream` delays while the document is hidden
+- a8e8ad0: fix(ai): expose call ID and abort reason in streamText onAbort callbacks
+
 ## 7.0.91
 
 ### Patch Changes
